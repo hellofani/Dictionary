@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.faniapps.dict.MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#795548"
+            app:popupTheme="@style/AppTheme.PopupOverlay"/>
+
+    </android.support.design.widget.AppBarLayout>
+
+<ScrollView android:id="@+id/scroller"
+    android:layout_width="30dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="right"
+    android:layout_marginBottom="10dp"
+  >
+   <LinearLayout
+       android:id="@+id/side_index"
+       android:layout_width="30dp"
+       android:layout_height="match_parent"
+       android:background="@color/background"
+       android:orientation="vertical"
+       android:layout_marginTop="?actionBarSize"
+
+       />
+</ScrollView>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/card_recycler_view"
+        android:scrollbars="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?actionBarSize"
+        android:layout_marginRight="30dp"/>
+
+    <toan.android.floatingactionmenu.FloatingActionsMenu
+        android:id="@+id/multiple_actions_down"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="bottom|right"
+        app:fab_expandDirection="up"
+        app:fab_menuIcon="@drawable/ic_search"
+        app:fab_addButtonColorNormal="@color/search_btn_color"
+        app:fab_labelStyle="@style/menu_labels_style"
+        android:layout_marginRight="30dp"
+       >
+
+
+
+        <toan.android.floatingactionmenu.FloatingActionButton
+            android:id="@+id/search_english"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="@color/title_bar"
+            app:fab_colorPressed="@color/white_pressed"
+            app:fab_icon="@drawable/ic_search"
+            android:visibility="gone"
+            app:fabSize="mini"
+            app:fab_title="English"
+           />
+
+
+
+        <toan.android.floatingactionmenu.FloatingActionButton
+            android:id="@+id/search_telugu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="@color/title_bar"
+            app:fab_icon="@drawable/ic_search"
+            app:fab_title="Telugu"
+            app:fabSize="mini"
+            android:visibility="gone"
+            app:fab_colorPressed="@color/white_pressed"/>
+
+    </toan.android.floatingactionmenu.FloatingActionsMenu>
+
+
+</android.support.design.widget.CoordinatorLayout>

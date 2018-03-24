@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+   >
+
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#795548"
+            app:popupTheme="@style/AppTheme.PopupOverlay"/>
+
+    </android.support.design.widget.AppBarLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/title_bar"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+        <TextView android:id="@+id/word1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="ankam"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+
+
+        <TextView android:id="@+id/cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="10dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:background="@drawable/ic_action_clear"/>
+        </RelativeLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp">
+        <TextView android:id="@+id/word2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black_semi_transparent"
+            android:layout_gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:text="Act of drama"
+            android:layout_margin="10dp"
+         />
+        <TextView android:id="@+id/texttospeech"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+           android:layout_gravity="center_horizontal"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/title_bar"
+            android:background="@drawable/ic_action_speaker"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:orientation="vertical">
+
+            <TextView android:id="@+id/word3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/half_black"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:text="word3"
+                />
+            <TextView android:id="@+id/word4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/half_black"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:text="Act of drama is completed"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:layout_marginTop="2dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <TextView android:id="@+id/share"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:layout_margin="20dp"
+            android:background="@mipmap/ic_action_share"/>
+
+        <TextView android:id="@+id/copy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:layout_margin="20dp"
+            android:background="@mipmap/ic_action_content_copy"/>
+
+    </LinearLayout>
+
+</LinearLayout>
