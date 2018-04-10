@@ -1,4 +1,4 @@
-package com.faniapps.dict;
+package com.fani.dict;
 
 /**
  * Created by user on 11-03-2018.

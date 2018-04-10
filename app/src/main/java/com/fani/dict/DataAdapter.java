@@ -1,4 +1,4 @@
-package com.faniapps.dict;
+package com.fani.dict;
 
 import android.app.Activity;
 import android.content.Intent;

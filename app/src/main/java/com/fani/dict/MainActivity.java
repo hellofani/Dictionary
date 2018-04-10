@@ -1,4 +1,4 @@
-package com.faniapps.dict;
+package com.fani.dict;
 
 import android.content.Context;
 import android.database.Cursor;

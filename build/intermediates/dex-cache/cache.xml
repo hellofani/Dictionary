@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/.android/build-cache/851538ea4bfdc3c8eca191252c854cca5c169103/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_794f4150fa67801be9814820e5c0de9cc0fdd6fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/.android/build-cache/aced5d913635926d8606d5368a080df55394b855/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_739d49b0473c3804f955071f1d882dd64344144b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/.android/build-cache/bc5bac746f56a004fe21fca900469b1a4bc81a85/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da0f17afb020d577f173ca912ff2a72819b91b84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Projects/dictionary/Project/Dictionary/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea16fdcb009bd0d6a490b28f20690729a502d9ee">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_716c200b48c70e4070bc8a37275a22a1c45ab1a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Projects/dictionary/Project/Dictionary/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1d5661d4f594155fed4120a16c391fc33eec1fbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/.android/build-cache/415e1b4d316f429a25a1cee91ebc4cf4c4c74e54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6701542625e879cde2b19396b3faa42c94bea69b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/.android/build-cache/90372edc091fdeeca5e62c2bb349051fe036162d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3abaa1ba3c921274ff4164289e4aa1ed1fa9e2cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/.android/build-cache/cd673bf0e9c1d76d289328c2af8d511ced396148/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_744f834c23890470a8806783949f59a9ba6438c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/.android/build-cache/a24f4292967caa23df69d66f755786ecc4cb4756/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a81162733fec6eff34a8406c34cac7475d471f0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/.android/build-cache/4f0044deae28700fe60eb4631125e32b21b497bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08ccf21c394b318483d7bb0027059000d9e53a5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/.android/build-cache/4e71243f7de486ec757322dc7b8f54bc3338a7e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e0d868bf28dabd9618de6ac1410d6736d426b069">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7d3a73d2392bd4b333c5c2190aec802eb88cd23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/.android/build-cache/df7d831606f751519ee68808c84ce32c76c80e8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d649412bb1cb6216c73b4d6553a724939153a1f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/.android/build-cache/d422e182eca172e296f73aa16b86f5c7038f2b7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ea39166dceac99789859d55c940311357e9ae43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_230032a949db2891315739ae84d93d3b57d69555/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/.android/build-cache/eda5ec163a06f8936a70b67eaae13af916713448/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5aff99d105494f301cd271c6ef70b2d64ce6b937/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/.android/build-cache/270fb871d73c53cf1bc126941c36b548da6df7bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1824ac8d92031e1bbbcd9a075e5c299ae6da8440/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/.android/build-cache/0e992ad6afeea19e022003f392ed40ee6b77604e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb1202573f18a634e9ff1fbab8cfe146c73ae2bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fanikiran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Projects/dictionary/Project/Dictionary/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_382dc37388ccd27b9e7119313873b0d2caa01765/classes.dex" />
+    </item>
+
+</items>

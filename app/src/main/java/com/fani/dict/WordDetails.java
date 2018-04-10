@@ -1,4 +1,4 @@
-package com.faniapps.dict;
+package com.fani.dict;
 
 import android.content.ClipData;
 import android.content.ClipboardManager;
